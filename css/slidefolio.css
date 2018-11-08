@@ -561,6 +561,16 @@ height:auto !important;
 width:60% !important;
 }
 
+.skill_info{
+  color: #888;
+  line-height: 24px;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 4;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
 /* Footer */
 
 footer {
